@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm William Sicoli</h1>
 <h3 align="center">A passionate developer from Venezuela</h3>
 
-<img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
-
 <p align="left"> 
   <a href="https://twitter.com/willy94rs" target="_blank">
     <img src="https://img.shields.io/twitter/follow/willy94rs?logo=twitter&style=for-the-badge" alt="willy94rs" />
